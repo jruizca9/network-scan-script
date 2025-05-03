@@ -24,5 +24,5 @@ Utiliza herramientas estándar como `nc` (netcat) y `timeout`.
 ## 🛠️ Uso
 
 ```bash
-bash port-scan.sh <IP> <PUERTO_INICIAL> <PUERTO_FINAL> [TIMEOUT]
+bash port_scan.sh <IP> <PUERTO_INICIAL> <PUERTO_FINAL> [TIMEOUT]
 
