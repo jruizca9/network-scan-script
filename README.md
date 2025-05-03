@@ -16,3 +16,10 @@ Utiliza herramientas estándar como `nc` (netcat) y `timeout`.
 
 ```bash
 bash port-scan.sh <IP> <PUERTO_INICIAL> <PUERTO_FINAL> [TIMEOUT]
+
+🤝 Contribuyendo
+¡Agradecemos sus contribuciones! Siéntase libre de:
+
+Compartir los problemas debido a errores o solicitudes de nuevas funcionalidades.
+Envía solicitudes de extracción para mejorar el código.
+Comparte tus comentarios e ideas.
